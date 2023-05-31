@@ -1,0 +1,89 @@
+#fundo {
+    background-color: antiquewhite;
+}
+
+.primeira_parte {
+    border-bottom: solid black;
+    height: 60px;
+    display: inline-flex;
+    width: 100%;
+   
+
+}
+.texto_click {
+    height: 60px;
+    width: 100%;
+    display: inline-flex;
+    text-decoration: underline;
+    color:blue;
+   
+
+}
+#inicio_click {
+    margin: 10px;
+}
+
+#galeria_click {
+    margin: 10px;
+
+}
+
+#contato_click {
+    margin: 10px;
+}
+
+#blog_click {
+    margin: 10px;
+    
+}
+
+.foto_1 {
+    border-bottom: solid black;
+    width: 40px;
+    height: 40px;
+    border-bottom: none;
+}
+
+#img_1 {
+    width: 100%;
+}
+
+#titulo {
+    text-align: center;
+    margin-top: 60px;
+    font-size: 50px;
+    color: white;
+    background-color: black;
+    text-decoration: underline white;
+}
+
+
+
+.cat {
+    width: 400px;
+    margin-left: 500px;
+    text-align: center;
+}
+
+#cat_1 {
+    width: 450px;
+    margin-left: 480px;
+}
+
+.grupo {
+    
+    margin: 10px;
+    border: solid black ;
+    padding: 10px;
+    width: 75%;
+    
+}
+
+#grupo_1 {
+    text-align: left;
+    margin: 10px;
+    border: solid black ;
+    padding: 10px;
+    width: 75%;
+}
+

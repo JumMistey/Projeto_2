@@ -1,0 +1,104 @@
+#fundo {
+    background-color: antiquewhite;
+}
+
+
+.primeira_parte {
+    border-bottom: solid black;
+    height: 60px;
+    display: inline-flex;
+    width: 100%;
+    text-align: right;
+
+}
+.texto_click {
+    height: 60px;
+    width: 70%;
+    display: inline-flex;
+    text-decoration: underline;
+    color:blue;
+    text-align: right;
+
+}
+#inicio_click {
+    margin: 10px;
+}
+
+#galeria_click {
+    margin: 10px;
+
+}
+
+#contato_click {
+    margin: 10px;
+}
+
+#blog_click {
+    margin: 10px;
+    
+}
+
+
+.foto_1 {
+    border-bottom: solid black;
+    width: 40px;
+    height: 40px;
+    border-bottom: none;
+}
+
+#img_1 {
+    width: 100%;
+}
+
+
+#Princ {
+    width: 100%;
+    height: 772px;    
+
+    margin-top: 20px;
+    text-align: center;
+}
+
+#logo {
+    width: 900px;
+    height: 772px;
+}
+
+.pequena_1 {
+    width: 25%;
+    height: 320px;
+    margin: 50px;
+    border: solid rgb(14, 235, 14);
+    background-color: green;
+    text-align: center;
+}
+
+.pequena_2 {
+    width: 25%;
+    height: 320px;
+    margin: 50px;
+    border: solid orange;
+    background-color: rgb(134, 87, 0);
+    text-align: center;
+}
+
+.pequena_3 {
+    width: 25%;
+    height: 320px;
+    margin: 50px;
+    border: solid red;
+    background-color: rgb(71, 0, 0);
+    text-align: center;
+}
+
+#img_2 {
+    width: 200px;
+    height: 145px;
+}
+
+#txt {
+    display: inline-flex;
+    width: 100%;
+    text-decoration: underline;
+
+}

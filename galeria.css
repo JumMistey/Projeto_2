@@ -1,0 +1,135 @@
+#fundo {
+    background-color: antiquewhite;
+}
+
+.primeira_parte {
+    border-bottom: solid black;
+    height: 60px;
+    display: inline-flex;
+    width: 100%;
+    text-align: right;
+
+}
+.texto_click {
+    height: 60px;
+    width: 70%;
+    display: inline-flex;
+    text-decoration: underline;
+    color:blue;
+    text-align: right;
+
+}
+#inicio_click {
+    margin: 10px;
+}
+
+#galeria_click {
+    margin: 10px;
+
+}
+
+#contato_click {
+    margin: 10px;
+}
+
+#blog_click {
+    margin: 10px;
+    
+}
+
+.foto_1 {
+    border-bottom: solid black;
+    width: 40px;
+    height: 40px;
+    border-bottom: none;
+}
+
+#titulo {
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    text-decoration: underline red;
+    background-color: black;
+    margin: 0px;
+}
+
+#titulo_2 {
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    text-decoration: underline red;
+    background-color: black;
+    margin: 0px;
+}
+
+
+#img_1 {
+    width: 100%;
+}
+
+#imagens {
+    width: 100%;
+    height: 100%;
+    margin-top: 60px;
+
+}
+
+#linha_1 {
+   
+    width: 100%;
+    height: 400px;
+    text-align: center;
+
+   
+}
+
+.galeria_img {
+    width: 95%;
+    height: 80%;
+    border: solid black;
+
+}
+
+.safe {
+    width: 20%;
+    height: 75%;
+    margin: 10px;
+    border: solid rgb(14, 235, 14);
+    background-color: green;
+    padding: 10px;
+    padding-bottom: 60px;
+    display: inline-block;
+    color: white;
+    text-decoration: underline white;
+
+}
+
+.euclid {
+    width: 20%;
+    height: 75%;
+    margin: 10px;
+    border: solid orange;
+    background-color: rgb(134, 87, 0);
+    padding: 10px;
+    padding-bottom: 60px;
+    display: inline-block;
+    color: white;
+    text-decoration: underline white;
+
+
+}
+
+.keter {
+    width: 20%;
+    height: 75%;
+    margin: 10px;
+    border: solid red;
+    background-color: rgb(71, 0, 0);
+    padding: 10px;
+    padding-bottom: 60px;
+    display: inline-block;
+    color: white;
+    text-decoration: underline white;
+
+
+}
